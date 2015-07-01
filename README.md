@@ -1,2 +1,4 @@
-# turbo-adventure
-it's just how I understood the algo - i haven't found cool description
+it's just how I understood the algo - i haven't found any cool description
+"""
+Идейно и по коду очень похоже на okapi bm25, только делал уже поправки, связанные с тем, что качество вхождения слов запроса в страницы, определяемое окаймляющими тегами, уже играет роль. Соответственно, на вход уже хочется видеть что-то html-подобное + файл с описанием важности тегов, в отличие от просто 25, а вот результат работы скрипта такой же.
+"""
