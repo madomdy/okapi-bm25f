@@ -1,0 +1,12 @@
+big 10
+small 2
+h1 10
+h2 8
+h3 6
+h4 4
+h5 2
+h6 1
+b 5
+i 4
+em 4
+strong 5
